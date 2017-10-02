@@ -28,7 +28,7 @@ On Ubuntu you can run the following command:
 > make clean     
 > make       
 > cd ../..      
-> cmake .   (If fails: > apt-get update && apt-get install build-essential)
+> cmake .   (If fails: > apt-get update && apt-get install build-essential)      
 > make      
 > sudo make install     
 > ldconfig     
